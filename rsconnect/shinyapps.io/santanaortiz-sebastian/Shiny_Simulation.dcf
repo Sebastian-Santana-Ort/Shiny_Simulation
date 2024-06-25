@@ -1,0 +1,13 @@
+name: Shiny_Simulation
+title: Shiny_Simulation
+username: santanaortiz-sebastian
+account: santanaortiz-sebastian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12229762
+bundleId: 8783753
+url: https://santanaortiz-sebastian.shinyapps.io/Shiny_Simulation/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md
